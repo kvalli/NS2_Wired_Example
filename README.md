@@ -11,3 +11,8 @@ At regular intervals of time (every 5 minutes) the local coordinators send infor
 Simulate this traffic.
 
 ![image](https://user-images.githubusercontent.com/8524239/110910952-fd93b100-834c-11eb-9fb4-a8498b12aaaa.png)
+
+How to run the script
+ns ns_wired.tcl
+
+
